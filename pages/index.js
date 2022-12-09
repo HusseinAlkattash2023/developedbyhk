@@ -206,7 +206,7 @@ export default function Home() {
             <div className='text-center p-8'>
               <h2 className='text-5xl py-2 text-teal-600 font-medium md:text-6xl'>Hussein Alkattash</h2>
               <h3 className='text-2xl py-2 md:text-3xl dark:text-white'>Front end developer</h3>
-              <p className='text-md py-5 leading-8 text-gray-800 md:text-xl max-w-lg mx-auto dark:text-gray-300'>Freelancer providing services from Programming and design beautiful front end. Join me below let's get cracking!</p>
+              <p className='text-md py-5 leading-8 text-gray-800 md:text-xl max-w-lg mx-auto dark:text-gray-300'>Freelancer providing services from Programming and design beautiful front end. Join me below lets get cracking!</p>
             </div>
             <div className='text-5xl flex justify-center gap-16 py-3 text-gray-600'>
               <AiFillFacebook/>
@@ -221,7 +221,7 @@ export default function Home() {
             <div>
               <h3 className='text-3xl py-1 dark:text-teal-500'>Services I offer</h3>
               <p className='text-md py-2 leading-8 text-gray-800  dark:text-gray-300'>
-                Since the beginning of my journey as freelance developer, I've done remote work for
+                Since the beginning of my journey as freelance developer, I have done remote work for
                 <span className='text-teal-500'> agencies</span> consulted for  
                 <span className='text-teal-500'> startups</span> and collaborated with talanted people to create digital products for both business and consumer use
               </p>
@@ -267,7 +267,7 @@ export default function Home() {
             <div>
               <h3 className='text-3xl py-1 dark:text-teal-500'>Portfolio</h3>
               <p className='text-md py-2 leading-8 text-gray-800 dark:text-gray-300'>
-                Since the beginning of my journey as freelance developer, I've done remote work for
+                Since the beginning of my journey as freelance developer, I have done remote work for
                 <span className='text-teal-500'> agencies</span> consulted for  
                 <span className='text-teal-500'> startups</span> and collaborated with talanted people to create digital products for both business and consumer use
               </p>
